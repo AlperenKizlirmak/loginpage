@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding: 0;
+}
+body{
+    font-family: 'La Belle Aurore', cursive;
+    background-color: yellowgreen;
+    text-align: center;
+
+}
+label{
+    display: inline-block;
+    width: 110px;
+    text-align: left;
+}
+form{
+    
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    width: fit-content;
+    display: inline-block;
+}
